@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MucusSaur
-- 👀 I’m interested in game design and development
+- 👀 I’m interested in game design and development.
 - 🌱 I’m currently learning how to code in C# and game design in college.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
